@@ -1,0 +1,21 @@
+{
+	"name":"ABAM Photography",
+	"total_photos":"2",
+	"photos":[
+		{
+			"name":"Boat in the river",
+			"date":"18/12/2021",
+			"location":"Kadavu,Muzhappilangad,Kannur",
+			"shot_by":"Aswanth V C",
+			"instagram":"____abam"
+		},
+		{
+			"name":"Birds flying over river",
+			"date":"18/12/2021",
+			"location":"Kadavu,Muzhappilangad,Kannur",
+			"shot_by":"Aswanth V C",
+			"instagram":"____abam"
+		}
+	],
+	"creaded_by":"Aswanth V C"
+}
